@@ -1,0 +1,11 @@
+omegaconf
+cdsapi
+pandas
+matplotlib
+numpy
+pillow
+xarray
+netcdf4
+scipy
+dvc
+dask[diagnostics]

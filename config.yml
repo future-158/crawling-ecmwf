@@ -1,0 +1,6 @@
+start_date: 2020
+end_date: 2021
+
+catalogue:
+  raw: "data/raw"
+  concat: "data/concat.zarr"
